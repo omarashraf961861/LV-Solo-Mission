@@ -1,7 +1,17 @@
-Simulation: https://drive.google.com/file/d/1hZ8-tUn_Tsb2_B1v3gMWUP1b0Y3d95ZA/view?usp=drive_link
+Milestone1:
+Simulation: <video src="https://github.com/user-attachments/assets/2264e389-a2d5-413d-812c-0c8b79d156ff" controls width="100%"></video>
 
 Program: <video src="https://github.com/user-attachments/assets/41b61e1e-bdfa-4fa5-8a4f-1bd29a2577e6" controls width="100%"></video>
-https://github.com/user-attachments/assets/41b61e1e-bdfa-4fa5-8a4f-1bd29a2577e6
+
+Milestone2:
+Simulation: <video src="https://github.com/user-attachments/assets/0aac6f51-d893-40f2-82fa-8747ff1bedd0" controls width="100%"></video>
+
+Program: <video src="https://github.com/user-attachments/assets/baa638a5-4e2e-405e-9ac8-5edf42b3ceeb" controls width="100%"></video>
+
+Milestone3:
+Simulation: <video src="" controls width="100%"></video>
+
+Program: <video src="" controls width="100%"></video>
 
 
 HAL_GPIO_TogglePin
