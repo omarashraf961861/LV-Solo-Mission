@@ -14,3 +14,18 @@ Document: UM1850 Manual
 Page: 48 - 50
 Section: Section 6.1.3 – HAL Control functions (Common / Timebase functions)
 Description: Provides a blocking delay in milliseconds based on the SysTick timer.
+
+HAL_SPI_Init
+Initializes the SPI according to the parameters. Found in UM1850, Section 58.2.1.
+
+HAL_SPI_TransmitReceive
+Transmits and receives data simultaneously. Found in UM1850, Section 58.2.3.
+
+HAL_GPIO_WritePin
+Sets or clears the selected data port bit. Found in UM1850, Section 21.2.2.
+
+HAL_UART_Transmit
+Sends an amount of data in blocking mode. Found in UM1850, Section 64.2.2.
+
+HAL_UART_Receive
+Receives an amount of data in blocking mode. Found in UM1850, Section 64.2.3.
