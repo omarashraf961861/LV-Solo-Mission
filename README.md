@@ -2,6 +2,8 @@ Project1:
 
 <img width="1323" height="841" alt="Image" src="https://github.com/user-attachments/assets/0d68f380-e1e5-40c8-a886-bd2d623cb6c8" />
 
+<img width="1049" height="690" alt="Image" src="https://github.com/user-attachments/assets/46c06593-313f-4677-b618-58aed7020312" />
+
 PROJECT2:
 
 Milestone1:
