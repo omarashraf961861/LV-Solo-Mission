@@ -36,7 +36,6 @@ Program:
 
 <video src="https://github.com/user-attachments/assets/0b76e191-f22f-4b44-9074-d1dc14db106d" controls width="100%"></video>
 
-<img width="1049" height="690" alt="Image" src="https://github.com/user-attachments/assets/46c06593-313f-4677-b618-58aed7020312" />
 
 
 HAL_GPIO_TogglePin
