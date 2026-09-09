@@ -1,3 +1,9 @@
+Circuit Simulation:
+
+Question 3:
+
+<video src="https://github.com/user-attachments/assets/0e34141f-7b2e-48a2-a79b-6cd6a97acfff" controls width="100%"></video>
+
 Project1:
 
 <img width="1323" height="841" alt="Image" src="https://github.com/user-attachments/assets/0d68f380-e1e5-40c8-a886-bd2d623cb6c8" />
