@@ -1,21 +1,40 @@
 Project1:
 
+<img width="1323" height="841" alt="Image" src="https://github.com/user-attachments/assets/0d68f380-e1e5-40c8-a886-bd2d623cb6c8" />
+
 PROJECT2:
 
 Milestone1:
-Simulation: <video src="https://github.com/user-attachments/assets/2264e389-a2d5-413d-812c-0c8b79d156ff" controls width="100%"></video>
 
-Program: <video src="https://github.com/user-attachments/assets/41b61e1e-bdfa-4fa5-8a4f-1bd29a2577e6" controls width="100%"></video>
+Simulation: 
+
+<video src="https://github.com/user-attachments/assets/2264e389-a2d5-413d-812c-0c8b79d156ff" controls width="100%"></video>
+
+Program:
+
+<video src="https://github.com/user-attachments/assets/41b61e1e-bdfa-4fa5-8a4f-1bd29a2577e6" controls width="100%"></video>
 
 Milestone2:
-Simulation: <video src="https://github.com/user-attachments/assets/59d6333b-00bd-4ea4-921b-579c0f7339d7" controls width="100%"></video>
 
-Program: <video src="https://github.com/user-attachments/assets/baa638a5-4e2e-405e-9ac8-5edf42b3ceeb" controls width="100%"></video>
+Simulation: 
+
+<video src="https://github.com/user-attachments/assets/59d6333b-00bd-4ea4-921b-579c0f7339d7" controls width="100%"></video>
+
+Program: 
+
+<video src="https://github.com/user-attachments/assets/baa638a5-4e2e-405e-9ac8-5edf42b3ceeb" controls width="100%"></video>
 
 Milestone3:
-Simulation: <video src="https://github.com/user-attachments/assets/ae3a4de8-5f0d-4fa7-b6a4-f050fb712488" controls width="100%"></video>
 
-Program: <video src="https://github.com/user-attachments/assets/0b76e191-f22f-4b44-9074-d1dc14db106d" controls width="100%"></video>
+Simulation: 
+
+<video src="https://github.com/user-attachments/assets/ae3a4de8-5f0d-4fa7-b6a4-f050fb712488" controls width="100%"></video>
+
+Program: 
+
+<video src="https://github.com/user-attachments/assets/0b76e191-f22f-4b44-9074-d1dc14db106d" controls width="100%"></video>
+
+<img width="1049" height="690" alt="Image" src="https://github.com/user-attachments/assets/46c06593-313f-4677-b618-58aed7020312" />
 
 
 HAL_GPIO_TogglePin
